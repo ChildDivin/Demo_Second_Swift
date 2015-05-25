@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "Name here"; ObjectID = "1Rn-eh-Edl"; */
+"1Rn-eh-Edl.text" = "Name here";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "1Sy-xg-6eJ"; */
+"1Sy-xg-6eJ.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Here the List of User "; ObjectID = "3Yw-Me-0pG"; */
+"3Yw-Me-0pG.text" = "Here the List of User ";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "3dc-NB-FCv"; */
+"3dc-NB-FCv.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "A31-og-0zc"; */
+"A31-og-0zc.normalTitle" = "Back";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "QvU-NR-rvy"; */
+"QvU-NR-rvy.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ubs-K4-gJb"; */
+"Ubs-K4-gJb.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Go To --> Image View "; ObjectID = "Wqo-un-7Ue"; */
+"Wqo-un-7Ue.normalTitle" = "Go To --> Image View ";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "WwE-N8-dy3"; */
+"WwE-N8-dy3.text" = "Name";
+
+/* Class = "UITextField"; placeholder = "Please Enter your name"; ObjectID = "Y5p-ma-jQa"; */
+"Y5p-ma-jQa.placeholder" = "Please Enter your name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bFf-T7-xYk"; */
+"bFf-T7-xYk.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Tableview "; ObjectID = "bOk-qh-xGh"; */
+"bOk-qh-xGh.normalTitle" = "Tableview ";
+
+/* Class = "UIButton"; normalTitle = "Web service"; ObjectID = "dFE-lY-cOA"; */
+"dFE-lY-cOA.normalTitle" = "Web service";
+
+/* Class = "UILabel"; text = "Distription here"; ObjectID = "imC-r2-uOQ"; */
+"imC-r2-uOQ.text" = "Distription here";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jiB-gw-Po4"; */
+"jiB-gw-Po4.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "oM9-VA-feh"; */
+"oM9-VA-feh.normalTitle" = "Back";
