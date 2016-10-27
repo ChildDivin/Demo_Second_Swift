@@ -14,7 +14,7 @@ struct Constants
         static let Welcome = "kWelcomeNotif"
     }
     
-    struct Path {
+    struct g_Path {
         static let Documents = NSSearchPathForDirectoriesInDomains(.DocumentDirectory, .UserDomainMask, true)[0] as! String
         static let Tmp = NSTemporaryDirectory()
     }
@@ -28,7 +28,7 @@ struct Constants
     /*
             Device Version
     */
-    struct ios {
+    struct g_IS_IOS {
         static let floatVersion = (UIDevice.currentDevice().systemVersion as NSString).floatValue
         static let _8 = (floatVersion >= 8.0) ? true : false
         static let _7 = (floatVersion >= 7.0 && floatVersion < 8.0) ? true : false

@@ -20,7 +20,6 @@ class webserviceVC: UIViewController ,UICollectionViewDelegate,UICollectionViewD
     let manager = AFHTTPRequestOperationManager()
     private let reuseIdentifier = "myCollection"
     var arrData :Array <AnyObject>=[]
-    
     var largePhotoIndexPath : NSIndexPath? {
         didSet
         {

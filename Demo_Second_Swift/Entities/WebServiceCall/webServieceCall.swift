@@ -22,10 +22,5 @@ class webServiceCall {
         }
         return Static.instance!
     }
-    
-    
-    
-    
-    
-    
+   
 }
